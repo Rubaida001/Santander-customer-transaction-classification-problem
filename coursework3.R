@@ -1,4 +1,3 @@
-#==================Coursework 3===========================
 #==================Submitted By===========================
 #==================Rubaida Easmin=========================
 
@@ -7,9 +6,6 @@ rm(list=ls())
 
 #===================directory=============================
 #setwd("/home/reasm001/RCode")
-setwd("C:/Users/eruba/Documents/ML3/")
-
-
 #==================read trainset==========================
 train_x=read.csv("train.csv") 
 dim(train_x)
